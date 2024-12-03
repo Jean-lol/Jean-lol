@@ -30,4 +30,4 @@
 
 
 ## Contact Me At
-Discord: Jean.80085
+<h1>Discord: Jean.80085</h1>
