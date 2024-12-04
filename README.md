@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Jean-lol </h1>
-<h1>Currently learning Web Development / Desktop App Development</h1>
+<h1>Currently learning Web Development</h1>
 
 <img src="https://github.com/user-attachments/assets/b0baf81d-6768-4b14-bca7-5f39fe584b18" width="300" height="200" />
 
